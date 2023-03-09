@@ -12,6 +12,6 @@ My name is Stefano, I'm from Ecuador and I'm a SysAdmin
 :star: Some Python coding
 :star: Special skills and experience in fast growing startups
 
-## Contact :envelope:
+## Contact 
 
 Find me on Linkedin [website](https://www.linkedin.com/in/stefanobriones/)
