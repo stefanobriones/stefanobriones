@@ -2,7 +2,7 @@
 
 My name is Stefano, I'm from Ecuador and I'm a SysAdmin
 
-## Skills
+## Skills 
 
 :star: Using Kubernetes in Production
 :star: AWS, Docker, Podman, OpenShift, Ansible, automation stuff
@@ -12,6 +12,6 @@ My name is Stefano, I'm from Ecuador and I'm a SysAdmin
 :star: Some Python coding
 :star: Special skills and experience in fast growing startups
 
-## Contact
+## Contact :envelope:
 
 Find me on Linkedin [website](https://www.linkedin.com/in/stefanobriones/)
